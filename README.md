@@ -7,9 +7,9 @@ For
 Grocery Delivery Application
  
 Prepared by:- 
-CHANDRASEKARAN S
-DILLIKUMAR N
-HARIHARAN R
+CHANDRASEKARAN S,
+DILLIKUMAR N,
+HARIHARAN R,
 TAMIL SELVAN T 
 
 Academic Year: 2023-2024
