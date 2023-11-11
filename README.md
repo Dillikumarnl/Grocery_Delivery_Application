@@ -1,3 +1,19 @@
+
+
+#SOFTWARE 
+#REQUIREMENTS SPECIFICATION 
+ 
+###For 
+ 
+##Grocery Delivery Application
+ 
+Prepared by:- 
+CHANDRASEKARAN S
+DILLIKUMAR N
+HARIHARAN R
+TAMIL SELVAN T 
+
+Academic Year: 2023-2024
 # Grocery Delivery Application
 
 ## Description
