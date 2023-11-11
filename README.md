@@ -13,7 +13,7 @@ HARIHARAN R,
 TAMIL SELVAN T 
 
 Academic Year: 2023-2024
-## Descriptiona
+## Description
 
 This is a web application that aims to simplify and enhance the grocery shopping experience. It allows users to effortlessly browse, create lists, and order groceries from their homes or workplaces, promoting convenience and time-saving. Additionally, it empowers vendors to manage inventory and fulfill orders, fostering industry-wide efficiency. It also provides real-time order tracking, secure payment processing, and customer support and feedback features.
 
