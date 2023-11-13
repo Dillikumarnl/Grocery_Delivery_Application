@@ -41,7 +41,7 @@ This project was developed using React.js and Bootstrap as the front-end technol
 - Customer Support & Feedback: Facilitate user inquiries, issue resolution, and feedback submission for continuous improvement.
 
 
-## 1.5. Usage
+## 1.5 Usage
 
 To use this application, you need to register as a user and log in with your credentials. You can choose to register as a customer, a delivery driver, a vendor, or an administrator. Depending on your role, you will have access to different features and interfaces.
 
@@ -51,7 +51,7 @@ To use this application, you need to register as a user and log in with your cre
 - As an administrator, you can oversee the entire system, manage users, and handle issues.
 
 
-## 1.6. Product Perspective
+## 1.6 Product Perspective
 A web-based platform that connects customers, vendors, and delivery agents for online grocery shopping.
 Convenient and efficient way to order groceries from a variety of stores and have them delivered to the doorstep.
 System that enables vendors to manage inventory and orders, and delivery agents to complete deliveries.
@@ -71,42 +71,42 @@ Customer Support & Feedback: Facilitate user inquiries, issue resolution, and fe
  	For grocery delivery applications, there are different entities that have different characteristics, roles, and responsibilities to consider for a good environment setup.
 
 Customers:
-	Characteristics:
+Characteristics:
 •	Individuals or households.
 •	Place grocery orders.
 •	Preferences for specific products or vendors.
 •	Demand order tracking and notifications.
-	Roles:
+Roles:
 •	Browse, select, and order groceries.
 •	Monitor order status and receive updates.
 •	Provide feedback and ratings.
 
 Delivery Drivers:
-	Characteristics:
+Characteristics:
 •	Contracted drivers or couriers.
 •	Responsible for order deliveries.
 •	Need real-time navigation and order information.
-	Roles:
+Roles:
 •	Accept and fulfill delivery orders.
 •	Utilize GPS for route optimization.
 •	Confirm deliveries with digital records.
 
 Vendors:
-	Characteristics:
+Characteristics:
 •	Grocery stores or suppliers.
 •	Offer product listings and inventory.
 •	Manage order processing and fulfillment.
-	Roles:
+Roles:
 •	List and update products and pricing.
 •	Process incoming customer orders.
 •	Maintain inventory status.
 
 Administrators:
-	Characteristics:
+Characteristics:
 •	System administrators.
 •	Manage the application, users, and vendors.
 •	Oversee system performance and security.
-	Roles:
+Roles:
 •	Manage user accounts and roles.
 •	Monitor and resolve system issues.
 •	Administer promotional campaigns.
@@ -149,33 +149,33 @@ Our GUI design focuses on efficient navigation and information hierarchy, making
 
 ## 4. Non-functional Requirements 
 4.1 Performance Requirement 
-	Response Time: The application responds quickly to user actions, with pages loading within a specified time frame.
-	Scalability: The application handles an increasing number of users and orders without significant performance degradation.
+	Response Time: The application responds quickly to user actions, with pages loading within a specified time frame.
+	Scalability: The application handles an increasing number of users and orders without significant performance degradation.
 
 4.2 Reliability
-	Availability: Aim for high availability, minimizing downtime for maintenance or unexpected issues.
-	Error Handling: Provide informative error messages and gracefully handle errors to prevent service interruptions.
+	Availability: Aim for high availability, minimizing downtime for maintenance or unexpected issues.
+	Error Handling: Provide informative error messages and gracefully handle errors to prevent service interruptions.
 
 4.3 Security
-	Data Encryption: Use encryption to protect sensitive data such as user information and payment details.
-	Authentication and Authorization: Implement strong authentication and authorization mechanisms to ensure that only authorized users can access specific features.
-	Secure APIs: Ensure that APIs used for payment processing and other sensitive operations are secure and protected from attacks. 
+	Data Encryption: Use encryption to protect sensitive data such as user information and payment details.
+	Authentication and Authorization: Implement strong authentication and authorization mechanisms to ensure that only authorized users can access specific features.
+	Secure APIs: Ensure that APIs used for payment processing and other sensitive operations are secure and protected from attacks. 
 
 4.4 Data Management
-	Data Backup and Recovery: Regularly back up user data and provide a robust data recovery mechanism in case of data loss.
-	Data Privacy: Comply with data privacy regulations and protect user data from unauthorized access. 
+	Data Backup and Recovery: Regularly back up user data and provide a robust data recovery mechanism in case of data loss.
+	Data Privacy: Comply with data privacy regulations and protect user data from unauthorized access. 
 4.5 Scalability and Load Handling
-	Load Testing: Perform load testing to ensure the application can handle a high volume of concurrent users and orders.
-	Horizontal Scaling: Be able to scale horizontally by adding more servers or resources during peak usage.
+	Load Testing: Perform load testing to ensure the application can handle a high volume of concurrent users and orders.
+	Horizontal Scaling: Be able to scale horizontally by adding more servers or resources during peak usage.
 
 4.6 Usability
  User Interface Design: Create an intuitive and user-friendly interface that is easy to navigate.
-	Accessibility: Ensure the application is accessible to users with disabilities, complying with accessibility standards.
-	Cross-Browser Compatibility: Ensure the application works seamlessly on major web browsers.
-	Mobile Responsiveness: Optimize the user experience for mobile devices through responsive design.
-	Logging: Implement robust logging to capture system events, errors, and user activities for troubleshooting and auditing.
-	Monitoring: Set up monitoring tools to track system health, performance, and security.
-	Regulatory Compliance: Adhere to relevant legal and regulatory requirements, including food safety standards and e-commerce regulations.
+	Accessibility: Ensure the application is accessible to users with disabilities, complying with accessibility standards.
+	Cross-Browser Compatibility: Ensure the application works seamlessly on major web browsers.
+	Mobile Responsiveness: Optimize the user experience for mobile devices through responsive design.
+	Logging: Implement robust logging to capture system events, errors, and user activities for troubleshooting and auditing.
+	Monitoring: Set up monitoring tools to track system health, performance, and security.
+	Regulatory Compliance: Adhere to relevant legal and regulatory requirements, including food safety standards and e-commerce regulations.
 
 
 4.7 Glossary 
