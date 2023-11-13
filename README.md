@@ -1,4 +1,4 @@
-# Grocery Delivery Application
+# **Grocery Delivery Application**
 SOFTWARE 
 REQUIREMENTS SPECIFICATION 
  
