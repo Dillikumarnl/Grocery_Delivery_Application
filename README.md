@@ -1,10 +1,10 @@
 # **Project_Title-Grocery Delivery Application**
-## **SOFTWARE 
-## REQUIREMENTS SPECIFICATION** 
+SOFTWARE 
+REQUIREMENTS SPECIFICATION
  
 For 
  
-## Grocery Delivery Application
+Grocery Delivery Application
  
 Prepared by:- 
 CHANDRASEKARAN S,
