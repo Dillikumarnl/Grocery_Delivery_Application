@@ -58,8 +58,8 @@ System that enables vendors to manage inventory and orders, and delivery agents 
 Service that offers personalized recommendations, discounts, rewards, and quality standards.
 
 ## Fuctionalites
-****2.1 Product Function 
-User Registration & Authentication: Enable secure account creation and login for users.
+**2.1 Product Function 
+**User Registration & Authentication: Enable secure account creation and login for users.
 Product Catalog, Provide a comprehensive catalog for browsing and selecting grocery items.\
 Order Management: Allow users to place and manage orders, including order validation.
 Real-Time Order Tracking: Implement tracking for customers and drivers with live updates.
