@@ -1,10 +1,10 @@
 # **Project_Title-Grocery Delivery Application**
-SOFTWARE 
-REQUIREMENTS SPECIFICATION 
+## **SOFTWARE 
+## REQUIREMENTS SPECIFICATION** 
  
 For 
  
-Grocery Delivery Application
+## Grocery Delivery Application
  
 Prepared by:- 
 CHANDRASEKARAN S,
@@ -15,11 +15,11 @@ TAMIL SELVAN T
 Academic Year: 2023-2024
 
 ## 1. Introduction 
-1.1 Purpose  
-This SRS document outlines the requirements for our Grocery Delivery Application, aiming to simplify and enhance the grocery shopping experience. It encompasses both functional and non-functional prerequisites defined by our client. Our primary objective is to provide an accessible platform that enables users to effortlessly browse, create lists, and order groceries from their homes or workplaces, promoting convenience and time-saving. Additionally, our system empowers vendors to manage inventory and fulfill orders, fostering industry-wide efficiency efficiently. Visualized through ER and UML diagrams, this document elucidates hardware and software interface requirements, guiding our development process. Join us on this journey to redefine grocery delivery, promoting accessibility and satisfaction for all. Your participation is vital in this transformative project.
+## 1.1 Purpose  
+This SRS document outlines the requirements for our project Grocery Delivery Application, aiming to simplify and enhance the grocery shopping experience. It encompasses both functional and non-functional prerequisites defined by our client. Our primary objective is to provide an accessible platform that enables users to effortlessly browse, create lists, and order groceries from their homes or workplaces, promoting convenience and time-saving. Additionally, our system empowers vendors to manage inventory and fulfill orders, fostering industry-wide efficiency efficiently. Visualized through ER and UML diagrams, this document elucidates hardware and software interface requirements, guiding our development process. Join us on this journey to redefine grocery delivery, promoting accessibility and satisfaction for all. Your participation is vital in this transformative project.
 
  
-1.2 Scope of Development Project 
+## 1.2 Scope of Development Project 
 Develop a website with a paramount focus on security, integrating robust user authentication, authorization, and data encryption for a grocery delivery application. Ensure an intuitive user experience with responsive design, efficient data handling, and user-friendly interfaces. Implement secure session management, rigorous input validation, and comprehensive error-handling mechanisms. 
 Employ HTTPS for secure data transmission and conduct regular security assessments to address vulnerabilities proactively. Construct a scalable architecture to accommodate future growth while adhering to applicable compliance standards. Deliver extensive documentation and user training to facilitate smooth website management and operation within the context of the grocery delivery application.
 The project can be readily deployed in diverse scenarios, providing the flexibility to incorporate new features as needed. This adaptability ensures module reusability and scalability. Java was chosen as the development language due to its numerous advantages, including exceptional performance, a rich array of available tools, cross-platform compatibility, access to extensive libraries, cost-effectiveness (open-source), and a streamlined development process.
@@ -58,7 +58,7 @@ System that enables vendors to manage inventory and orders, and delivery agents 
 Service that offers personalized recommendations, discounts, rewards, and quality standards.
 
 ## 2. Fuctionalites
-2.1 Product Function 
+## 2.1 Product Function 
 User Registration & Authentication: Enable secure account creation and login for users.
 Product Catalog, Provide a comprehensive catalog for browsing and selecting grocery items.\
 Order Management: Allow users to place and manage orders, including order validation.
@@ -67,7 +67,7 @@ Vendor Tools: Offer vendors tools for managing products, pricing, and order proc
 Payment Processing: Integrate secure payment gateways for diverse payment methods.
 Customer Support & Feedback: Facilitate user inquiries, issue resolution, and feedback submission for continuous improvement.
  	 
-2.2 User Classes and Characteristics 
+## 2.2 User Classes and Characteristics 
  	For grocery delivery applications, there are different entities that have different characteristics, roles, and responsibilities to consider for a good environment setup.
 
 Customers:
@@ -111,11 +111,7 @@ Roles:
 •	Monitor and resolve system issues.
 •	Administer promotional campaigns.
 
-2.3 Operating Environment 
-The Grocery Delivery Application will operate in a Windows environment, ensuring compatibility with various web browsers, including Microsoft Internet Explorer, Google Chrome, and Mozilla Firefox. It will be optimized for Internet Explorer 6.0 and support most features on Mozilla Firefox and Opera 7.0 or higher versions. The sole requirement for using this online product is a stable internet connection.
-In terms of hardware configuration, the system will function with a minimum of a 40 GB hard disk, a 15” color monitor, and a 122-key keyboard. Basic input devices such as a keyboard and mouse, as well as output devices like monitors and printers, will be supported by the application. This inclusive approach to operating and hardware environments ensures accessibility and usability for a broad range of users.
-
-2.4 Assumptions and Dependencies 
+## 2.3 Assumptions and Dependencies 
 The assumptions are:- 
 	The coding should be error-free 
 	The system should be user-friendly so that it is easy to use for the users 
@@ -132,43 +128,43 @@ The dependencies are:-
 	The end users (admin) should have a proper understanding of the product 
 	The system should have the general report stored 
 	The information of all the users must be stored in a database that is accessible by the Library System 
-	Any update regarding the book from the library is to be recorded to the database and the data entered should be correct 
+	Any update regarding the book from the library is to be recorded to the database and the data entered should be correct. 
  
-2.5 Requirement 
+## 2.4 Requirement 
 System & Software Configuration:- 
 Operating System: Windows NT, Windows 98, Windows XP, and above versions., 
 Language & IDE:Html, JavaScript(react.js-library), CSS(bootstrap) (front end), java (Spring boot)(back-end)
 Database: MongoDB. 
  
-2.6 Data Requirement 
+## 2.5 Data Requirement 
         The inputs consist of the query to the database and the output consists of the solutions for the query. The output also includes the user receiving the details of their accounts. In this project, the inputs will be the queries as fired by the users like creating an account, selecting books, and putting into an account. Now the output will be visible when the user requests the server to get details of their account in the form of time, date, and which books are currently in the account.  
  
 ## 3. External Interface Requirement 
-3.1 GUI 
+## 3.1 GUI 
 Our GUI design focuses on efficient navigation and information hierarchy, making it easy for users to browse products, manage their shopping carts, and track orders. We employ visually engaging elements, including high-quality images, icons, and a cohesive color scheme, to enhance the overall aesthetic and brand identity of the application. The checkout process is streamlined with secure payment options, and users can expect real-time order tracking and personalized experiences through user profiles. Accessibility and error handling are key considerations, ensuring that the application is usable by individuals with disabilities and that users receive clear guidance in case of issues. Overall, our GUI design aims to deliver a seamless and enjoyable grocery shopping experience while accommodating future growth and scalability.
 
 ## 4. Non-functional Requirements 
-4.1 Performance Requirement 
+## 4.1 Performance Requirement 
 	Response Time: The application responds quickly to user actions, with pages loading within a specified time frame.
 	Scalability: The application handles an increasing number of users and orders without significant performance degradation.
 
-4.2 Reliability
+## 4.2 Reliability
 	Availability: Aim for high availability, minimizing downtime for maintenance or unexpected issues.
 	Error Handling: Provide informative error messages and gracefully handle errors to prevent service interruptions.
 
-4.3 Security
+## 4.3 Security
 	Data Encryption: Use encryption to protect sensitive data such as user information and payment details.
 	Authentication and Authorization: Implement strong authentication and authorization mechanisms to ensure that only authorized users can access specific features.
 	Secure APIs: Ensure that APIs used for payment processing and other sensitive operations are secure and protected from attacks. 
 
-4.4 Data Management
+## 4.4 Data Management
 	Data Backup and Recovery: Regularly back up user data and provide a robust data recovery mechanism in case of data loss.
 	Data Privacy: Comply with data privacy regulations and protect user data from unauthorized access. 
-4.5 Scalability and Load Handling
+## 4.5 Scalability and Load Handling
 	Load Testing: Perform load testing to ensure the application can handle a high volume of concurrent users and orders.
 	Horizontal Scaling: Be able to scale horizontally by adding more servers or resources during peak usage.
 
-4.6 Usability
+## 4.6 Usability
  User Interface Design: Create an intuitive and user-friendly interface that is easy to navigate.
 	Accessibility: Ensure the application is accessible to users with disabilities, complying with accessibility standards.
 	Cross-Browser Compatibility: Ensure the application works seamlessly on major web browsers.
@@ -178,7 +174,7 @@ Our GUI design focuses on efficient navigation and information hierarchy, making
 	Regulatory Compliance: Adhere to relevant legal and regulatory requirements, including food safety standards and e-commerce regulations.
 
 
-4.7 Glossary 
+## 4.7 Glossary 
       The following is the list of conventions and acronyms used in this document and the project as well: 
 	Administrator: A login ID representing a user with user administration privileges to the software  
 	User: A general login ID assigned to most users 
