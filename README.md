@@ -1,4 +1,4 @@
-# **Project_Title-Grocery Delivery Application**
+# **Project_Title-Application for Grocery Delivery **
 SOFTWARE 
 REQUIREMENTS SPECIFICATION
  
