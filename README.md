@@ -28,6 +28,14 @@ This project was developed using React.js and Bootstrap as the front-end technol
 - Vendor Tools: Offer vendors tools for managing products, pricing, and order processing.
 - Payment Processing: Integrate secure payment gateways for diverse payment methods.
 - Customer Support & Feedback: Facilitate user inquiries, issue resolution, and feedback submission for continuous improvement.
+- System Features 
+The users of the system should be provided the surety that their account is secure. This is possible by providing:-
+User Registration and Shopping: User-friendly registration and login, enabling customers to browse and purchase products.
+Efficient Cart Management: Streamlined shopping cart for easy item addition, removal, and real-time cost updates.
+Secure Checkout and Payment: Secure, multi-payment options, including digital wallets and card payments.	Delivery Tracking:
+Real-time order tracking with driver information and delivery status updates.	Vendor and Inventory Control: Vendor onboarding, inventory management, and low-stock alerts.
+Analytics and Admin Control: Data analytics for administrators, user reviews, and continuous system improvement
+
 
 ## Usage
 
