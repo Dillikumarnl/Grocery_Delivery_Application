@@ -68,7 +68,7 @@ Payment Processing: Integrate secure payment gateways for diverse payment method
 Customer Support & Feedback: Facilitate user inquiries, issue resolution, and feedback submission for continuous improvement.
  	 
 ## 2.2 User Classes and Characteristics 
- 	For grocery delivery applications, there are different entities that have different characteristics, roles, and responsibilities to consider for a good environment setup.
+ For grocery delivery applications, there are different entities that have different characteristics, roles, and responsibilities to consider for a good environment setup.
 
 Customers:
 Characteristics:
@@ -137,7 +137,7 @@ Language & IDE:Html, JavaScript(react.js-library), CSS(bootstrap) (front end), j
 Database: MongoDB. 
  
 ## 2.5 Data Requirement 
-        The inputs consist of the query to the database and the output consists of the solutions for the query. The output also includes the user receiving the details of their accounts. In this project, the inputs will be the queries as fired by the users like creating an account, selecting books, and putting into an account. Now the output will be visible when the user requests the server to get details of their account in the form of time, date, and which books are currently in the account.  
+ The inputs consist of the query to the database and the output consists of the solutions for the query. The output also includes the user receiving the details of their accounts. In this project, the inputs will be the queries as fired by the users like creating an account, selecting books, and putting into an account. Now the output will be visible when the user requests the server to get details of their account in the form of time, date, and which books are currently in the account.  
  
 ## 3. External Interface Requirement 
 ## 3.1 GUI 
@@ -145,24 +145,24 @@ Our GUI design focuses on efficient navigation and information hierarchy, making
 
 ## 4. Non-functional Requirements 
 ## 4.1 Performance Requirement 
-	Response Time: The application responds quickly to user actions, with pages loading within a specified time frame.
-	Scalability: The application handles an increasing number of users and orders without significant performance degradation.
+Response Time: The application responds quickly to user actions, with pages loading within a specified time frame.
+Scalability: The application handles an increasing number of users and orders without significant performance degradation.
 
 ## 4.2 Reliability
-	Availability: Aim for high availability, minimizing downtime for maintenance or unexpected issues.
-	Error Handling: Provide informative error messages and gracefully handle errors to prevent service interruptions.
+Availability: Aim for high availability, minimizing downtime for maintenance or unexpected issues.
+Error Handling: Provide informative error messages and gracefully handle errors to prevent service interruptions.
 
 ## 4.3 Security
-	Data Encryption: Use encryption to protect sensitive data such as user information and payment details.
-	Authentication and Authorization: Implement strong authentication and authorization mechanisms to ensure that only authorized users can access specific features.
-	Secure APIs: Ensure that APIs used for payment processing and other sensitive operations are secure and protected from attacks. 
+Data Encryption: Use encryption to protect sensitive data such as user information and payment details.
+Authentication and Authorization: Implement strong authentication and authorization mechanisms to ensure that only authorized users can access specific features.
+Secure APIs: Ensure that APIs used for payment processing and other sensitive operations are secure and protected from attacks. 
 
 ## 4.4 Data Management
-	Data Backup and Recovery: Regularly back up user data and provide a robust data recovery mechanism in case of data loss.
-	Data Privacy: Comply with data privacy regulations and protect user data from unauthorized access. 
+Data Backup and Recovery: Regularly back up user data and provide a robust data recovery mechanism in case of data loss.
+Data Privacy: Comply with data privacy regulations and protect user data from unauthorized access. 
 ## 4.5 Scalability and Load Handling
-	Load Testing: Perform load testing to ensure the application can handle a high volume of concurrent users and orders.
-	Horizontal Scaling: Be able to scale horizontally by adding more servers or resources during peak usage.
+Load Testing: Perform load testing to ensure the application can handle a high volume of concurrent users and orders.
+Horizontal Scaling: Be able to scale horizontally by adding more servers or resources during peak usage.
 
 ## 4.6 Usability
  User Interface Design: Create an intuitive and user-friendly interface that is easy to navigate.
@@ -175,20 +175,20 @@ Our GUI design focuses on efficient navigation and information hierarchy, making
 
 
 ## 4.7 Glossary 
-      The following is the list of conventions and acronyms used in this document and the project as well: 
-	Administrator: A login ID representing a user with user administration privileges to the software  
-	User: A general login ID assigned to most users 
-	Client: Intended users for the software  
-	SQL: Structured Query Language used to retrieve information from a   database 
-	NoSQL: non-relational database to store and retrieve data.
-	SQL Server: A server used to store data in an organized format 
-	Layer: Represents a section of the project 
-	User Interface Layer: The section of the assignment referring to what the user interacts with directly 
-	Application Logic Layer: The section of the assignment refers to the Web Server. 
-	Data Storage Layer: The section of the assignment referring to where all data is recorded  Use Case: A broad-level diagram of the 	project showing a basic overview 
-	Class diagram: It is a type of static structure diagram that describes the structure of a system by showing the system’s cases, their attributes, and the relationships between the classes 
-	Interface: Something used to communicate across different mediums 
-	Unique Key: Used to differentiate entries in a database 
- 
+The following is the list of conventions and acronyms used in this document and the project as well: 
+Administrator: A login ID representing a user with user administration privileges to the software  
+User: A general login ID assigned to most users 
+Client: Intended users for the software  
+SQL: Structured Query Language used to retrieve information from a   database 
+NoSQL: non-relational database to store and retrieve data.
+SQL Server: A server used to store data in an organized format 
+Layer: Represents a section of the project 
+User Interface Layer: The section of the assignment referring to what the user interacts with directly 
+Application Logic Layer: The section of the assignment refers to the Web Server. 
+Data Storage Layer: The section of the assignment referring to where all data is recorded  Use Case: A broad-level diagram of the 	project showing a basic overview 
+Class diagram: It is a type of static structure diagram that describes the structure of a system by showing the system’s cases, their attributes, and the relationships between the classes 
+Interface: Something used to communicate across different mediums 
+Unique Key: Used to differentiate entries in a database 
+
 
 
