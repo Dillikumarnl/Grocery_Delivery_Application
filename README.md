@@ -1,6 +1,6 @@
 # Here the live link for the deployed project
 
-[ url: https://dillikumarnl.github.io/Grocery-Design-/](https://dillikumarnl.github.io/Grocery-Delivery-Application/)
+[ url: https://dillikumarnl.github.io/Grocery_Delivery_Application/](https://dillikumarnl.github.io/Grocery-Delivery-Application/)
 
 The mentioned above url navigates to the website which we are created
 
