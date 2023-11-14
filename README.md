@@ -1,4 +1,4 @@
-# Here the live link for the deployed project
+# Here the live link for the our Team's deployed project
 
 [ url: https://dillikumarnl.github.io/Grocery_Delivery_Application/](https://dillikumarnl.github.io/Grocery-Delivery-Application/)
 
