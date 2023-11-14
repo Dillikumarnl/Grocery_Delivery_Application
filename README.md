@@ -1,3 +1,8 @@
+# Here the live link for the deployed project
+
+	 url: https://dillikumarnl.github.io/Grocery-Design-/
+
+The mentioned above url navigates to the website which we are created
 
 # Project_Title-Application for Grocery Delivery 
 SOFTWARE 
