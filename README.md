@@ -1,3 +1,8 @@
+# Here the live link of the deployed project (ie) created by our Team
+
+[ url: https://dillikumarnl.github.io/Grocery_Delivery_Application/](https://dillikumarnl.github.io/Grocery-Delivery-Application/)
+
+The mentioned above url navigates to the website which we are created
 
 # Project_Title-Application for Grocery Delivery 
 SOFTWARE 
